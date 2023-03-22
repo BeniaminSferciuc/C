@@ -1,1 +1,1 @@
-Exercises in the C language
+Exercises in the C language and some theory!
