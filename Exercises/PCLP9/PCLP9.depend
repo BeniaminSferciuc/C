@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1673635152 source:e:\proiecte c\c incepatori\pclp\pclp9\functions.c
+	"functions.h"
+
+1673635056 e:\proiecte c\c incepatori\pclp\pclp9\functions.h
+
+1673631019 source:e:\proiecte c\c incepatori\pclp\pclp9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"functions.h"
+
