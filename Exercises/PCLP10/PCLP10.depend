@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1674156423 source:e:\pclp\pclp10\functii.c
+	"functii.h"
+
+1674158841 e:\pclp\pclp10\functii.h
+
+1674158594 source:e:\pclp\pclp10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functii.h"
+	<string.h>
+
